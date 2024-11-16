@@ -56,7 +56,8 @@ pip install -r requirements.txt
 
 This will install all the necessary dependencies, including Streamlit, OpenCV, and scikit-image.
 
-## Usage
+### **1. Usage: ***
+
 To start the app, simply run the following command:
 
 ```bash
