@@ -48,3 +48,19 @@ Windows :
 venv/Scripts/activate
 deacitvate
 ```
+**To install the required packages, run:**
+
+```bash
+pip install -r requirements.txt
+```
+
+This will install all the necessary dependencies, including Streamlit, OpenCV, and scikit-image.
+
+## Usage
+To start the app, simply run the following command:
+
+```bash
+streamlit run app/main.py
+```
+
+This will launch the app in your default web browser. You can then upload an image of cells to analyze and adjust the various settings to customize the analysis. Once you are satisfied with the results, you can export the measurements to a CSV file for further analysis.
