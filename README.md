@@ -37,8 +37,14 @@ To run this app, follow the steps below to set up your environment:
 
 ### **1. Create a virtual environment:**
 
-You can use **conda** to create a virtual environment for this project:
+**To create a virtual environment for this project:**
 
 ```bash
-conda create -n breast-cancer-diagnosis python=3.10
-conda activate breast-cancer-diagnosis
+python -m venv venv
+```
+**Activating/Deactivating a Python Virtual Environment:**
+Windows : 
+```bash
+venv/Scripts/activate
+deacitvate
+```
