@@ -6,7 +6,7 @@ The **Breast Cancer Diagnosis Predictor** app is a machine learning-powered tool
 
 The app was built for educational purposes, demonstrating the use of machine learning techniques and providing a tool for predicting breast cancer diagnoses. This tool is not intended for professional medical use.
 
-A live version of the application is hosted on **Streamlit Community Cloud**.
+A live version of the application is hosted on [Streamlit Community Cloud](https://breast-cancer-predictor-24.streamlit.app/).
 
 ---
 
